@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+
+
+.Name{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  color: black;
+  font-size: xx-large;
+}
+
+.content {
+  margin: auto;
+}
+
+.button {
+  background-color: #B6B6B6;
+  border-radius: 12px;
+  font-family: 'Oswald', sans-serif;
+  font-size: x-large;
+}
